@@ -1,8 +1,4 @@
 
-import sys
-
-
-
 class train():
     def run(self,data,mu=1,maxloopcnt=10000):
         datanum=len(data)
